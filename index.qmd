@@ -1,0 +1,34 @@
+---
+title: "Curriculo de Diego Saavedra"
+author: "Diego Savedra"
+format: html
+editor: visual
+---
+
+## Información de Contacto.
+
+**Nombre:** Diego Medardo Saavedra García
+
+**Correo:** diego.saavedra\@istjm.edu.ec
+
+## Formación Académica.
+
+-   [Licenciado en Ciencias de la Educación Mención Informática Educativa.](media/Titulo_1104520281.pdf)
+
+-   Master en Ciencias y Tecnologías de la Computación.
+
+## Idiomas
+
+-   Español
+
+-   Ingles
+
+-   Quechua
+
+## Experiencia.
+
+## Intereses
+
+## Referencias.
+
+## 
