@@ -1,0 +1,20 @@
+---
+title: "Curriculo de Diego Saavedra"
+author: "Diego Savedra"
+format: html
+editor: visual
+---
+
+## Información de Contacto.
+
+## Formación Académica.
+
+## Idiomas
+
+## Experiencia.
+
+## Intereses
+
+## Referencias.
+
+## 
