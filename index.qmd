@@ -7,6 +7,8 @@ editor: visual
 
 ## Información de Contacto.
 
+![](media/statick.jpg){fig-align="center" width="215"}
+
 **Nombre:** Diego Medardo Saavedra García
 
 **Correo:** diego.saavedra\@istjm.edu.ec
